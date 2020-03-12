@@ -1,3 +1,5 @@
 .idea
 .idea/*
-app/.env.local-example
+**/.env.local
+app/front/public/**/*
+!**/.gitkeep
